@@ -31,3 +31,4 @@
 # 3. 训练结果
 
 ![](plt/loss.png)
+![](plt/loss1.png)
